@@ -1,1 +1,1 @@
-<a href"culebra.svg"></a>
+<a href=#><img src="culebra.svg"></a>

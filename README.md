@@ -1,10 +1,10 @@
 ![gitartwork](gitartwork.svg)
 
-# 🛰️ Alexander Narváez
+# 🛰️ Alexander Narváez - EL NARVA
 
 ## 📡 Orbital Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmaestrotic&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+  <img src="./assets/orbital-graph.gif" width="100%" />
 </p>
 
 ## 🛸 Contribution Sweep
@@ -14,5 +14,5 @@
 
 ## 🚀 Satellite Feed
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="260" />
 </p>

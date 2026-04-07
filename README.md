@@ -1,10 +1,11 @@
 ![gitartwork](gitartwork.svg)
 
+
 # 🛰️ Alexander Narváez - EL NARVA
 
 ## 📡 Orbital Contribution Graph
 <p align="center">
-  <img src="./assets/orbital-graph.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/demo/demo.svg" width="100%"/>
 </p>
 
 ## 🛸 Contribution Sweep
@@ -14,5 +15,5 @@
 
 ## 🚀 Satellite Feed
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="260" />
+  <img src="https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif" width="260"/>
 </p>

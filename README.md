@@ -4,8 +4,10 @@
 
 ## Contribution Graph
 
-[![Alexander Narváez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elmaestrotic&theme=github-dark)](https://github.com/elmaestrotic)
+## 📊 Contribution Activity
 
-## GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elmaestrotic&theme=tokyo-night&area=true&hide_border=true"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmaestrotic&show_icons=true&theme=github_dark)
+## 🐍 Contribution Snake
+
+<img src="https://github.com/elmaestrotic/elmaestrotic/blob/output/github-contribution-grid-snake.svg"/>

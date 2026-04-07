@@ -1,19 +1,11 @@
 ![gitartwork](gitartwork.svg)
 
+![Snake animation](https://github.com/elmaestrotic/elmaestrotic/blob/output/github-contribution-grid-snake.svg)
 
-# 🛰️ Alexander Narváez - EL NARVA
+## Contribution Graph
 
-## 📡 Orbital Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/main/demo/demo.svg" width="100%"/>
-</p>
+[![Alexander Narváez's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=elmaestrotic&theme=github-dark)](https://github.com/elmaestrotic)
 
-## 🛸 Contribution Sweep
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elmaestrotic/elmaestrotic/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+## GitHub Stats
 
-## 🚀 Satellite Feed
-<p align="center">
-  <img src="https://media.giphy.com/media/5xtDarIN81U0KvlnzKo/giphy.gif" width="260"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elmaestrotic&show_icons=true&theme=github_dark)

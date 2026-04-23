@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  🛰️ Beyond research and teaching, I engage in disciplines such as <b>chess</b> and <b>martial arts</b>, while exploring advanced aerospace concepts — including the design of <b>satellites, drones, and unconventional wingless aerospace vehicles</b> based on non-conventional propulsion approaches.
+  🛰️ Beyond research and teaching, I engage in disciplines such as <b>chess</b> and <b>martial arts</b>, while exploring advanced aerospace concepts   including the design of <b>satellites, drones, and unconventional wingless aerospace vehicles</b> based on non-conventional propulsion approaches.
 </p>
 
 ---
@@ -38,12 +38,12 @@ I work at the intersection of **Artificial Intelligence, algorithm design, softw
 
 ---
 
-## 🏅 Professional Recognition
+## 🚀 Highlights
 
-- One of only **six certified SEI instructors in Colombia** authorized to deliver training in **PSP (Personal Software Process)** and **TSP (Team Software Process)**
-- **Co-author of the Spanish translation of the PSP book**
-- Recipient of multiple recognitions for **teaching excellence and educational innovation**
-- Invited speaker at **international conferences, symposia, colloquia, and academic events** in areas such as Artificial Intelligence, Computer Science, Information Security, and Educational Technology
+- Among a small group of certified **SEI instructors in Colombia**, delivering **PSP (Personal Software Process)** and **TSP (Team Software Process)**
+- Contributed to the **Spanish edition of the PSP book**
+- Recognized for **teaching excellence and innovation in education**
+- Speaker at **international academic and professional events** in **Artificial Intelligence, Computer Science, Information Security, and Educational Technology**
 
 ---
 

@@ -19,16 +19,10 @@
 
 ## 🚀 Satellite Feed ## 📡
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
-    </td>
-    <td align="center">
-      <img src="./alcubierre.gif" width="220"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
+  <img src="assets/weav.gif" width="220"/>
+</p>
 
 <p align="center">
   🛰️ Beyond research and teaching, I enjoy chess and martial arts. I build interactive physics simulations and explore advanced aerospace concepts

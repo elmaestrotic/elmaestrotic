@@ -102,7 +102,7 @@ I am currently developing research in:
 - Chess
 - Martial arts
 - Interactive physics simulations
-- Aerospace concepts and educational innovation
+- Aerospace concepts
 
 ---
 

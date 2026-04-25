@@ -11,24 +11,14 @@
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
-  <img src="./alcubierre.gif" width="220"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmaestrotic&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-## 🚀 Satellite Feed ## 📡
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
-  <img src="assets/weav.gif" width="220"/>
-</p>
-
-<p align="center">
-  🛰️ Beyond research and teaching, I enjoy chess and martial arts. I build interactive physics simulations and explore advanced aerospace concepts
-</p>
-
-
+## 🚀 Satellite Feed ## 📡 <p align="center"> <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
+<img src="alcubierre.gif" width="220"/> </p> 
+<p align="center"> 🛰️ Beyond research and teaching, I enjoy chess and martial arts. I build interactive physics simulations and explore advanced aerospace concepts. </p>
 ---
 
 # 🧠 About Me

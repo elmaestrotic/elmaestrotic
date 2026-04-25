@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
  <img src="https://raw.githubusercontent.com/elmaestrotic/elmaestrotic/main/alcubierre.gif" width="220"/>
-</p>> 🛰️ Beyond research and teaching, I enjoy chess and martial arts. I build interactive physics simulations and explore advanced aerospace concepts. </p>
+</p> 🛰️ Beyond research and teaching, I enjoy chess and martial arts. I build interactive physics simulations and explore advanced aerospace concepts. </p>
 ---
 
 # 🧠 About Me
@@ -99,11 +99,10 @@ I am currently developing research in:
 ---
 
 ## ♟️ Other Interests
-
 - Chess
-- Aerospace conceptual design
-- Satellites and unconventional aerospace vehicles
-- Computational thinking and educational innovation
+- Martial arts
+- Interactive physics simulations
+- Aerospace concepts and educational innovation
 
 ---
 

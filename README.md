@@ -24,10 +24,9 @@
 </p>
 
 <p align="center">
-  🛰️ Beyond research and teaching, I engage in disciplines such as <b>chess</b> and <b>martial arts</b>, while exploring advanced aerospace concepts including the design of <b>satellites, drones, and unconventional wingless aerospace vehicles</b> based on non-conventional propulsion approaches.
+  🛰️ Beyond research and teaching, I enjoy chess and martial arts. Passionate about interactive physics simulations and innovative aerospace concepts
 </p>
 
----
 
 ---
 

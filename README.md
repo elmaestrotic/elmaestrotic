@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  🛰️ Beyond research and teaching, I enjoy chess and martial arts. Passionate about interactive physics simulations and innovative aerospace concepts
+  🛰️ Beyond research and teaching, I enjoy chess and martial arts. I build interactive physics simulations and explore advanced aerospace concepts
 </p>
 
 

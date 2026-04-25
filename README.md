@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="220"/>
-  <img src="https://raw.githubusercontent.com/elmaestrotic/elmaestrotic/main/weav.gif" width="220"/>
+  <img src="https://raw.githubusercontent.com/elmaestrotic/elmaestrotic/main/alcubierre.gif" width="220"/>
 </p>
 
 <p align="center">
